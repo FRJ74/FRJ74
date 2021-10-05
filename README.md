@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FRJ74
+- 👋 Hi, I’m Frank @FRJ74
 - 👀 I’m interested in learning web development(front end & back end)
-- 🌱 I’m currently learning html, CSS, and JS
+- 🌱 I’m currently learning HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on any webbased projects
 - 📫 How to reach me fr.online.surveys@gmail.com
 
