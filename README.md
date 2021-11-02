@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Frank @FRJ74
-- 👀 I’m interested in learning web development(front end & back end)
+- 👀 I’m interested in learning full stack webdev(eventually PHP & Python)
 - 🌱 I’m currently learning HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on any webbased projects
 - 📫 How to reach me fr.online.surveys@gmail.com
