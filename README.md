@@ -1,8 +1,15 @@
+![image](https://user-images.githubusercontent.com/55099680/173256766-9010bd36-1bd5-4312-b6cc-21b1138163a1.png)
+
+
 - 👋 Hi, I’m Frank @FRJ74
-- 👀 I’m interested in learning frontend webdev(eventually PHP & Python - fullstack)
-- 🌱 I’m currently learning HTML, CSS, and JS
-- 💞️ I’m looking to collaborate on any webbased projects
-- 📫 How to reach me frankr74@gmail.com
+- 👀 I’m correcntly learning frontend webdev(eventually PHP, Python, & SQL - fullstack) with the help of Treehouse,The Odin Project,and W3Schools.
+- 🌱 In this leg of my journey I'm focused on mastering HTML, CSS, and JS
+- 💞️ I’d love to collaborate on any webbased projects
+- 📫 Contact me: frankr74@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FRJ74)](https://github.com/FRJ74/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRJ74)](https://github.com/FRJ74/github-readme-stats)
 
 <!---
 FRJ74/FRJ74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
