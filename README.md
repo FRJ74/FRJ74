@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m FrankRi @FRJ74
-- 👀 I’m correcntly learning frontend webdev(eventually React, PHP, Python, & SQL - fullstack) with the help of The Odin Project, Scimba, FreeCodeCamp, MDN Web Docs, ZTM and W3Schools.
+- 👀 I’m correcntly learning frontend web development(eventually React, PHP, Python, & SQL - fullstack) with the help of The Odin Project, <a href="https://v2.scrimba.com/home">Scrimba</a>, FreeCodeCamp, MDN Web Docs, ZTM and W3Schools.
 - 🌱 In this leg of my journey I'm focused on mastering HTML, CSS, and JS
 - 💞️ I’d love to collaborate on any webbased projects
 - 📫 Contact me: frankr74@gmail.com
